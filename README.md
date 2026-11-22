@@ -1,4 +1,5 @@
 # QALQON
+Multiple AI platforms have been used to make this application.
 
 QALQON is an Android security app that checks installed apps and APK files for known threats, warns about risky installation prompts, and optionally filters DNS for supported browsers and messengers.
 
